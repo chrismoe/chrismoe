@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chrismoe
 - 👀 I’m interested in how technology and privacy influence each other and the world.
 - 🌱 I’m currently learning Python and how to cook the perfect brisket.
-- 💞️ I’m looking to collaborate on solving complex data protection and privacy issues on a global level. 
-- 📫 How to reach me - @MoePrivacy
+- 💞️ I’m looking to collaborate on solving complex data protection and privacy issues on a global level.
